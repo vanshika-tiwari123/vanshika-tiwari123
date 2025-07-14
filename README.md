@@ -1,7 +1,7 @@
 
 # HOLA EVERYONE !! 
 ## I'm Vanshika Tiwari- Passionate AI/ML Enthusiast 
-I’m an engineer who transforms ideas into intelligent systems. Specializing in Artificial Intelligence and Machine Learning. I believe great technology isn't just about logic — it’s about impact, ethics, and imagination.
+I’m an engineer who transforms ideas into intelligent systems. Specializing in Artificial Intelligence and Machine Learning. I believe great technology isn't just about logic — it’s about impact, ethics, and imagination. Let's connect and create the future of AI together!
 
 ### 🎓 Education
 
