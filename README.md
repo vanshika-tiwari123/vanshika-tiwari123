@@ -39,7 +39,9 @@ I’m an engineer who transforms ideas into intelligent systems. Specializing in
 
 📫 **Connect with Me Guys**    
  [LinkedIn](https://www.linkedin.com/in/vanshika-tiwari-AIML/)
- [Gmail](tiwarivanshika55@gmail.com)  
+ [Gmail](tiwarivanshika55@gmail.com)
+ [Portfolio](https://vanshika.lovable.app)  
+ 
 
  ## Namaste 
 
